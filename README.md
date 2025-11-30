@@ -7,15 +7,40 @@
 A developer who builds using **C++**, **Java**, and full-stack **web development**.
 
 ---
+<div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-USERNAME&style=flat&color=orange)
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/YOUR-USERNAME&count_bg=%2379C83D&title_bg=%23555555)
+<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+
 
 </div>
 
 ---
 
 ## 🚀 Skills & Tools
+
+```dart
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : {"Python", "JavaScript", "Java", "C++ ", "PHP" },
+    "OtherLanguages" : { "HTML", "CSS" },
+    "Database" : { "MySQL" },
+    "Editors" : { "Vscode"},
+    "Platforms" : {"Windows" },
+    "OtherTools" : { "Git"}
+  };
+}
+```
 
 ### **Programming Languages**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
@@ -27,20 +52,19 @@ A developer who builds using **C++**, **Java**, and full-stack **web development
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=flat&logo=json&logoColor=white)
+
 
 ### **Databases**
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
+
 
 ### **Tools & Software**
 ![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-![Sublime](https://img.shields.io/badge/Sublime_Text-575757?style=flat&logo=sublime-text&logoColor=important)
+
 
 ### **Operating Systems**
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
 
@@ -48,7 +72,7 @@ A developer who builds using **C++**, **Java**, and full-stack **web development
 
 - 🔧 Building projects with **C++**, **Java**, and **web technologies**  
 - 🌐 Interested in backend & full-stack development  
-- 💻 Exploring Linux and software engineering  
+- 💻 I am learning DSA
 - 🎬 You can talk with me about tech, movies, gaming, or anything!
 
 ---
