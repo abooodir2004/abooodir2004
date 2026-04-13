@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="60%"/>
 
 ### Hi there, I'm **Abdulrahman Rami Barghouth** 👋  
 A developer who builds using **C++**, **Java**, and full-stack **web development**.
@@ -9,11 +9,11 @@ A developer who builds using **C++**, **Java**, and full-stack **web development
 ---
 <div align="center">
 
-<a href="https://www.instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+<a href="https://www.instagram.com/abooodi_04/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/abdulrahman-rami-0359a2345/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
 </a>
 
