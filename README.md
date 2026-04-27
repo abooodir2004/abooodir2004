@@ -81,9 +81,9 @@ class About extends Me {
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
+<img src="https://raw.githubusercontent.com/abooodir2004/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32%">
+<img src="https://raw.githubusercontent.com/abooodir2004/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32%">
+<img src="https://raw.githubusercontent.com/abooodir2004/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32%">
 
 </div>
 
